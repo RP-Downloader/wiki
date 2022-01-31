@@ -1,0 +1,17 @@
+# Table of contents
+
+* [RPD - Wiki](README.md)
+* [Commands And Permissions](commands-and-permissions.md)
+* [Configuration](config/README.md)
+  * [Default Files](config/default-files.md)
+  * [GUISettings.yml](config/guisettings.yml/README.md)
+    * [GUI](config/guisettings.yml/gui.md)
+    * [Worlds-GUI](config/guisettings.yml/worlds-gui.md)
+  * [Settings.yml](config/settings.yml/README.md)
+    * [Getting Started](config/settings.yml/getting-started/README.md)
+      * [Step 1: Prepairing Resource Pack](config/settings.yml/getting-started/step-1-prepairing-resource-pack.md)
+      * [Step 2: Setting Your Pack Up](config/settings.yml/getting-started/step-2-setting-your-pack-up.md)
+    * [Other Settings](config/settings.yml/other-settings.md)
+  * [Messages.yml](config/messages.yml-1/README.md)
+    * [Translations](config/messages.yml-1/messages.yml.md)
+  * [Worlds.yml](config/worlds.yml.md)
